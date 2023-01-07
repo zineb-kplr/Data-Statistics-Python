@@ -63,4 +63,11 @@
     - T test 
     - ANOVA
  - Pratique :
-  - TP 6 : expériences
+  - TP 6 : expériences statistiques et test d'hypothèses 
+## **Vendredi :**   
+- Théorie :  
+
+  - Régression Linéaire 
+  
+-  Pratique :
+  - tp 7 : Regression Linéaire 
